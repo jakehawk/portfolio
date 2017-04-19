@@ -1136,7 +1136,8 @@ ul.social-buttons li a:active {
 	letter-spacing: 2px;
 }
 
-#our-process-title::after {
+/*Commented out to prevent arrow down from skills*/
+/*#our-process-title::after {
     content: " ";
     position: absolute;
     width: 0px;
@@ -1147,7 +1148,7 @@ ul.social-buttons li a:active {
     left: 50%;
     margin-left: -14px;
     bottom: -14px;
-}
+}*/
 
 #our-process h2 {
 	font-size: 33px;
@@ -1159,7 +1160,7 @@ ul.social-buttons li a:active {
 
 #our-process .process-box {
 	border-right: 1px solid #2d2d2d;
-	min-height: 180px;
+	min-height: 125px;
     background-repeat: no-repeat;
     background-position: center bottom; 
 }
