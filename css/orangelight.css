@@ -180,7 +180,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 
 /* =Our Process
 -------------------------------------------------------------- */
-#our-process .process-icons {
+.process-icons {
 	color: #F2784B;
 }
 
