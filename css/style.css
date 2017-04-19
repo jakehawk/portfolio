@@ -1159,7 +1159,7 @@ ul.social-buttons li a:active {
 
 #our-process .process-box {
 	border-right: 1px solid #2d2d2d;
-	min-height: 400px;
+	min-height: 180px;
     background-repeat: no-repeat;
     background-position: center bottom; 
 }
