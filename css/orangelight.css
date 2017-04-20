@@ -184,6 +184,12 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 	color: #F2784B;
 }
 
+/* mimic icon styling for my social icons */
+.social-icons {
+    font-size: 90px;
+    color: #8980fe;
+}
+
 /* =Testimonial
 -------------------------------------------------------------- */
 .fade-quote-carousel.carousel .carousel-indicators .active {
